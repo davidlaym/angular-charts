@@ -1,4 +1,8 @@
-##Features
+## Why fork
+
+This fork is made solely to make avaliable the `/dist` folder over npm so that it's directly consumable.
+
+## Features
 1. One click chart change
 2. Tiny - 4.4kb minified and gzipped
 3. Auto tooltips
@@ -9,7 +13,7 @@
 
 [Download](https://github.com/chinmaymk/angular-charts/releases) | [Playground](http://plnkr.co/edit/T9J7bz?p=preview) | [Contribute](#contribute)
 
-##Installation
+## Installation
 Grab the latest zip from [releases](https://github.com/chinmaymk/angular-charts/releases), copy ```angular-charts.min.js``` to web root, and refer it from page.
 
 ```html
